@@ -2,4 +2,4 @@
 # Autor: Elias Mendoza
 
 print("Hola, soy Elias Mendoza")
-print("Laboratorio 0 - Programación 2")
+print("Este es mi primer archivo en el repositorio del laboratorio 0")
