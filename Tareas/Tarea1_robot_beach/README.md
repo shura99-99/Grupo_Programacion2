@@ -1,3 +1,10 @@
+## 📂 Ubicación de la Tarea
+
+La Tarea 1 se encuentra en:
+
+Tareas/Tarea1_robot_beach/
+
+
 # 🏖️ Tarea 1 - Robot Beach
 
 ## 📌 Descripción
